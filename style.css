@@ -1,0 +1,109 @@
+/* The following styles are for the Testimonial template */
+.page-id-1433 #inner {
+	
+
+}
+#inner #testimonial_top_wrapper {
+	width: 100%;
+	overflow: hidden;
+	height: 140px;
+}
+#testimonial_top_wrapper #testimonial_top_image img {
+    border: 8px solid #fff8dc;
+    margin-left: 670px;
+    position: absolute;
+    z-index: 99;
+   	-moz-box-shadow: 0 0 5px 5px rgba(0,0,0,0.2);
+	-webkit-box-shadow: 0 0 5px 5px  rgba(0,0,0,0.2);
+	box-shadow: 0 0 5px 5px rgba(0,0,0,0.2);
+
+}
+#testimonial_top_wrapper #testimonial_top_wrapper_left {
+	width: 600px;
+    position: absolute;
+    margin-left: 60px;
+    margin-right: 20px;
+    z-index: 99;
+    font-size: 130%;
+    font-weight: bold;
+}
+.page-template-testimonial-php #content {
+	position: absolute;
+	margin-left: -20px;
+    margin-right: auto;
+    margin-bottom: 5px;
+    width: 100%; 
+    /*background-image:url(/wp-content/uploads/2015/03/donBurton.png);*/
+	background-repeat:no-repeat;
+	z-index: 2;
+}
+.page-template-testimonial-php  #content #main img {
+	margin-left: -20px;
+	position: absolute;
+}
+
+.page-template-testimonial-php  #inner #bottom_wrapper {
+    background-color: #ffffff;
+    display: block;
+    height: auto;
+    margin: 450px 50px 0;
+    opacity: 0.9;
+    overflow: visible;
+    padding: 25px;
+    position: relative;
+    width: 85%;
+    z-index: 11;
+}
+.page-template-testimonial-php  #inner #bottom_wrapper_content {
+	position: relative;
+	overflow: visible;
+	padding: 5px 25px 10px 25px;
+	font-size: 125%;
+	z-index: 15;
+}
+.page-template-testimonial-php  #inner #bottom_wrapper_content p {
+	margin-bottom: 10px;
+}
+.page-template-testimonial-php  #inner #bottom_wrapper_content h2 {
+	margin-bottom: 5px;
+}
+.button-link, 
+.apply-button {
+	transition: all .3s ease-out;
+}
+.button-link:hover {
+	box-shadow: 0px 0px 4px 2px rgba(0,0,0,.25);
+	text-decoration: none;
+}
+.callout {
+	text-align: center;
+}
+h3.callout {
+	border-top: 1px dotted #919191;
+	padding-top: 12px;
+}
+p.callout {
+	border-bottom: 1px dotted #919191;
+	padding-bottom: 14px;
+}
+.apply-button {
+  background: #226750 none repeat scroll 0 0;
+  border: 3px double #f0f0f0;
+  color: #fff;
+  display: inline-block;
+  font-size: 20px;
+  letter-spacing: 0.02em;
+  padding: 6px 8px;
+}
+.apply-button:hover {
+	background: #4F9FAC none repeat scroll 0 0;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
